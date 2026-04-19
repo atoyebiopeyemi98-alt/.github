@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f0a,40:0f2318,100:0a0f0a&height=190&section=header&text=Just-Code-Builder&fontSize=52&fontColor=3fb950&animation=fadeIn&fontAlignY=42&desc=Africa's+Pan-Digital+Infrastructure+Stack&descAlignY=63&descColor=7ee787&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f0a,40:0f2318,100:0a0f0a&height=190&section=header&text=K-LAB&fontSize=52&fontColor=3fb950&animation=fadeIn&fontAlignY=42&desc=Africa's+Pan-Digital+Infrastructure+Stack&descAlignY=63&descColor=7ee787&descSize=16" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1200&color=3FB950&center=true&vCenter=true&width=760&lines=Kernal+%7C+Klix+%7C+Krat+%7C+Kribs+%7C+Kredio+%7C+KITE+%7C+CloutIx;7+Interconnected+Apps.+One+Shared+API.;Payments.+Identity.+Commerce.+Housing.+Social.+VPN.;Built+in+Africa.+For+the+World.+%F0%9F%8C%8D" alt="Typing SVG" />
