@@ -207,7 +207,6 @@ Decentralised VPN + bandwidth marketplace. Node sellers earn by sharing bandwidt
 [![Babsupdate](https://img.shields.io/badge/GitHub-Babsupdate-0d1117?style=for-the-badge&logo=github&logoColor=3fb950)](https://github.com/Babsupdate)
 [![ZyndrHQ](https://img.shields.io/badge/GitHub-ZyndrHQ-0d1117?style=for-the-badge&logo=github&logoColor=3fb950)](https://github.com/ZyndrHQ)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/2349051362610)
-[![Kernal.io](https://img.shields.io/badge/Kernal.io-Core_API-0d1117?style=for-the-badge&logoColor=3fb950)](https://kernal.io)
 
 </div>
 
